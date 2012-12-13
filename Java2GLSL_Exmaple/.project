@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>Java2GLSL_Example_linked_src</name>
-			<type>2</type>
-			<location>C:/Users/ktjohn/Google 드라이브/Java2GLSL_Example_linked_src</location>
-		</link>
-	</linkedResources>
 </projectDescription>
